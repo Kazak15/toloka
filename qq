@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Про нас</title>
+    <link href="ab_us1.css" rel="stylesheet" type="text/css"/>
+    <link href="../media-queries.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <script type="text/javascript" src="front_1.js"></script>
+</head>
+<body>
+    <div class="all-page1">
+        <header>
+            <a href="http://localhost:63342/Toloka/main/front_1.html?_ijt=h9te4i8p13v8sdim7llj8anspq"><img class="logo" SRC="../images/T_1.png"/></a>
+            <div class="soc-link">
+                <ul class="social">
+                    <a class="link_soc" href="#"><li class="social_item instagram">
+                        <i class="fa fa-instagram">
+                        </i>
+                    </li></a>
+                    <a class="link_soc" href="#"><li class="social_item facebook">
+                        <i class="fa fa-facebook">
+                        </i>
+                    </li></a>
+                    <a class="link_soc" href="#"><li class="social_item linkedin">
+                        <i class="fa fa-linkedin"></i>
+                    </li></a>
+                    <a class="link_soc" href="#"><li class="social_item google">
+                        <i class="fa fa-google"></i>
+                    </li></a>
+                </ul>
+            </div>
+        </header>
+        <div class="main-menu">
+            <nav class="n_menu">
+                <ul>
+                    <li><a href="http://localhost:63342/Toloka/about%20us/ab_us1.html?_ijt=vdmp058m3s05eq3fdlib9vev3r"><i class="fa fa-about_us">Про нас</i></a></li>
+                    <li><a href="http://localhost:63342/Toloka/hrom_org/hrom_org1.html?_ijt=ehvm0l37daajvod18i1oe9ihq8"><i class="fa fa-hr_org">Громадській організації</i></a>
+                        <ul>
+                            <li><a href="#">Реєстрація</a></li>
+                            <li><a href="#">Вхід</a></li>
+                            <li><a href="#">Дописи</a></li>
+                            <li><a href="#">Опис</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="http://localhost:63342/Toloka/hromadyaniny/hrom1.html?_ijt=rc70r5i4199i40hthh5tavl7up"><i class="fa fa-hrom">Громадянину</i></a>
+                        <ul>
+                            <li><a href="#">Реєстрація</a></li>
+                            <li><a href="#">Вхід</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="http://localhost:63342/Toloka/partners/partners1.html?_ijt=6lhero7h52e3jniobncrk531tt"><i class="fa fa-phonds">Партнери</i></a>
+                        <ul>
+                            <li><a href="#">Стати партнером</a></li>
+                            <li><a href="#">Наші партнери</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</body>
+</html>
